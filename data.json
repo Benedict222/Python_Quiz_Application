@@ -1,0 +1,41 @@
+{
+  "question" : [
+
+    "Q1, Who is the President of Russia",
+    "Q2, The best Football club in England is",
+    "Q3, The currency of Nigeria is",
+    "Q4, The full meaning of PLT is",
+    "Q5, Nigeria is a bad economy"
+  ],
+  "answer": [
+    2,
+    2,
+    4,
+    2
+  ],
+  "options": [
+    ["Buhari",
+      "Putin",
+      "Tinubu",
+      "Obi"
+    ],
+    ["Manchester City",
+      "Chealsea",
+      "Liverpool",
+      "Manchester United"
+    ],
+    ["Pounds",
+      "Cents",
+      "Dollars",
+      "Naira"
+    ],
+    ["Programing Long Tech",
+      "Program Long Technician",
+      "Programming and Logic Technics",
+      "All of The above"
+    ],
+    ["Yes",
+      "No"
+    ]
+  ]
+}
